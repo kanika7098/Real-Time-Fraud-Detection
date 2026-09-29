@@ -1,0 +1,12 @@
+Feature,Importance
+remainder__amount_to_balance_ratio,0.28898394136038624
+remainder__amount,0.05557327740667195
+remainder__oldbalanceOrg,0.049721925646753096
+categorical__type_PAYMENT,0.041840315194440904
+categorical__type_CASH_IN,0.03642825010554201
+categorical__type_TRANSFER,0.028795564330338128
+categorical__type_CASH_OUT,0.01898782103099641
+remainder__hour,0.016210828417419602
+remainder__step,0.013400060111078629
+remainder__day,0.008083263661976451
+categorical__type_DEBIT,0.0002665694390231633
